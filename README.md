@@ -1,6 +1,8 @@
 # cjive
 Cluster jackknife instrumental variable estimator Use cjive With STATA 19
 
+https://www.youtube.com/watch?v=hsnBmXjVmKQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
